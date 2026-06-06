@@ -1,33 +1,52 @@
-# Customer-Purchase-History-Dashboard
+# Customer Purchase History Dashboard
 
+## Project Overview
 
-This project is an interactive Excel dashboard designed to analyze customer purchase history and sales performance. The dashboard provides insights into category-wise sales, monthly sales trends, payment methods, top customers, product performance, and customer ratings.
+This project is an interactive Excel dashboard designed to analyze customer purchase history and sales performance. The dashboard provides valuable insights into sales trends, customer behavior, product performance, and payment methods.
 
-Key Features:
-• Total Sales Analysis
-• Total Quantity Sold
-• Average Customer Review Rating
-• Category-wise Sales Comparison
-• Monthly Sales Trend Analysis
-• Payment Method Distribution
-• Top Customers Analysis
-• Product-wise Quantity Analysis
-• Interactive Slicers and Filters
+## Tools Used
 
-Tools Used:
-• Microsoft Excel
-• Pivot Tables
-• Pivot Charts
-• Slicers
-• Data Cleaning
-• Data Visualization
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Data Visualization
 
-Skills Demonstrated:
-• Data Analysis
-• Dashboard Creation
-• Business Intelligence
-• Data Cleaning
-• Excel Reporting
-• Data Visualization
+## Dashboard Features
 
-This project showcases my ability to transform raw data into meaningful insights through interactive dashboards and visual reports.
+- Total Sales KPI
+- Total Quantity Sold KPI
+- Average Review Rating KPI
+- Category-wise Sales Analysis
+- Monthly Sales Trend Analysis
+- Payment Method Analysis
+- Top Customers Analysis
+- Product-wise Quantity Analysis
+- Interactive Filters and Slicers
+
+## Key Insights
+
+- Electronics generated the highest sales among all categories.
+- Monthly sales trends help identify peak sales periods.
+- Customer purchase behavior can be analyzed through top customer insights.
+- Multiple payment methods are compared to understand customer preferences.
+- Product quantity analysis highlights the most demanded products.
+
+## Skills Demonstrated
+
+- Data Analysis
+- Data Cleaning
+- Dashboard Development
+- Excel Reporting
+- Business Intelligence
+- Data Visualization
+
+## Dataset
+
+Customer Purchase History Dataset (Sample Data)
+
+## Author
+
+**Shivam Vishwakarma**  
+Aspiring Data Analyst
